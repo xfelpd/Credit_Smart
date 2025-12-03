@@ -1,6 +1,6 @@
 # CreditSmart - EA1: Diseño de Interfaces Web
 
-**Estudiante:** Tu Nombre Aquí
+**Estudiante:** sebastian mesa meneses - juan felipe saldarriaga lopez
 
 ## Descripción
 Proyecto de ejemplo para la asignatura "Ingeniería Web I". Se desarrolla una interfaz estática (sin backend) para mostrar un catálogo de productos crediticios, un simulador visual y un formulario de solicitud.
@@ -21,3 +21,4 @@ Abre `index.html` en el navegador.
 - feat(simulador): Página simulador
 - feat(form): Formulario de solicitud
 - style: Estilos y responsive
+
